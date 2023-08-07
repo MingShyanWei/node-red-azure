@@ -1,6 +1,6 @@
 {
-  "name": "@intres/node-red-azure-storage",
-  "version": "1.0.8",
+  "name": "@caspar.wei/node-red-azure-storage",
+  "version": "1.0.9",
   "description": "Node-red node for Azure Storage",
   "engines": {
     "node": ">=12.0.0"
@@ -15,7 +15,7 @@
       "azure-blob-storage-download": "azure-blob-storage-download.js"
     }
   },
-  "author": "Tsung Jui Wang",
+  "author": "Ming Shyan Wei",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/uwtintres/node-red-azure/issues"
